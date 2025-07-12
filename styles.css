@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+}
+
+a:active{
+    color: black;
+}
+
+a:visited{
+    color: green;
+}
+
+a:focus {
+    outline: 2px solid blue;
+}
